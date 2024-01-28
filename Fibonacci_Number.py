@@ -1,16 +1,3 @@
-
-# ------------------------------------------------------
-# File Name: Fibonacci_Number.py
-# ------------------------------------------------------
-# Date Finished: 08-12-2022
-# ------------------------------------------------------
-# Description:
-# This is a simple recursively calculated fibonacci 
-# number generator that takes an integer input from 
-# a user, then uses that input as the term of the 
-# fibonacci number to be generated.
-# ------------------------------------------------------
-
 from functools import lru_cache
 
 print("\n---------- Fibonacci Number Calculator ----------\n")
