@@ -28,10 +28,10 @@ This is a simple fibonacci number generator that takes an integer input from a u
 
 **2. Go to the repository's main directory**
    
-```Paste this command on your terminal:```
-   ```
-   cd Fibonacci_Number_Generator
-   ```
+      Paste this command on your terminal:
+      ```
+      cd Fibonacci_Number_Generator
+      ```
 ##
 > **Method 2: Forking**
 
