@@ -10,7 +10,7 @@ This is a simple fibonacci number generator that takes an integer input from a u
 
 ----------------------
 
-### 🛠️ III. How to Use?
+### 🛠️ III. How to use this repository?
 ##
 > **Method 1: Cloning**
 
