@@ -21,14 +21,15 @@ This is a simple fibonacci number generator that takes an integer input from a u
 
 **1. Clone this repository**
 
-   Paste this command on your terminal: 
-   ```
-   git clone https://github.com/m3mentomor1/Fibonacci_Number_Generator.git
-   ```
+   Paste this command on any CLI (CMD, PowerShell, Terminal):
+   
+      ```
+      git clone https://github.com/m3mentomor1/Fibonacci_Number_Generator.git
+      ```
 
 **2. Go to the repository's main directory**
    
-   Paste this command on any CLI (CMD, PowersShell, Terminal):
+   Paste this command on any CLI (CMD, PowerShell, Terminal):
    ```
    cd Fibonacci_Number_Generator
    ```
