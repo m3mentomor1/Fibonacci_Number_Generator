@@ -17,22 +17,18 @@ This is a simple fibonacci number generator that takes an integer input from a u
 
 ### 🛠️ IV. How to use this repository?
 ##
-> **Method 1: Cloning**
+> **Method 1: Clone this repository**
 
-**1. Clone this repository**
-
-   Paste this command on any CLI (CMD, PowerShell, Terminal):
+**1. Clone repository:**
    ```
    git clone https://github.com/m3mentomor1/Fibonacci_Number_Generator.git
    ```
 
-**2. Go to the repository's main directory**
-   
-   Paste this command on any CLI (CMD, PowerShell, Terminal):
+**2. Go to the repository's main directory:
    ```
    cd Fibonacci_Number_Generator
    ```
 ##
-> **Method 2: Forking**
+> **Method 2: Fork this repository**
 
 Click the '**Fork**' button at the top right corner of this page to create a copy of this repository in your GitHub account.
