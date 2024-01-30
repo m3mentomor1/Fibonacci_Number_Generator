@@ -10,7 +10,7 @@ This is a simple fibonacci number generator that takes an integer input from a u
 ----------------------
 
 ### ⏯️ III. Demo
-![gif](https://github.com/m3mentomor1/Fibonacci_Number_Generator/assets/95956735/9b0963ba-5ce1-493e-841a-42a2bed08715)
+![gif](https://github.com/m3mentomor1/Fibonacci_Number_Generator/assets/95956735/6ea37a6b-2520-4274-a798-b659c9e4dbc1)
 
 ----------------------
 
