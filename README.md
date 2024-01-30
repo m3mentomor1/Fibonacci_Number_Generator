@@ -31,4 +31,4 @@ This is a simple fibonacci number generator that takes an integer input from a u
 ##
 **Method 2: Fork repository**
 
-Click the '**Fork**' button at the top right corner of this page to create a copy of this repository in your GitHub account.
+Click the ```Fork``` button at the top right corner of this page to create a copy of this repository in your GitHub account.
