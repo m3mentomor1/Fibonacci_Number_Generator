@@ -28,7 +28,7 @@ This is a simple fibonacci number generator that takes an integer input from a u
 
 **2. Go to the repository's main directory**
    
-   Paste this command on your CLI (Windows, macOS, Linux Distros):
+   Paste this command on your CLI (Windows, macOS, Any Linux Distros):
    ```
    cd Fibonacci_Number_Generator
    ```
