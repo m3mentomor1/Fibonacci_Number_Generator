@@ -22,7 +22,6 @@ This is a simple fibonacci number generator that takes an integer input from a u
 **1. Clone this repository**
 
    Paste this command on any CLI (CMD, PowerShell, Terminal):
-   
       ```
       git clone https://github.com/m3mentomor1/Fibonacci_Number_Generator.git
       ```
