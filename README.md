@@ -6,7 +6,7 @@ This is a simple fibonacci number generator that takes an integer input from a u
 ----------------------
 
 ### 📦 II. Dependencies
-- ```**functools**``` - this module is used for the lru_cache decorator applied to the recursive function f(n). This decorator caches computed Fibonacci numbers, improving efficiency by avoiding redundant computations. What it does is store recent function calls and reuse results for the same inputs.
+- ```functools``` - this module is used for the lru_cache decorator applied to the recursive function f(n). This decorator caches computed Fibonacci numbers, improving efficiency by avoiding redundant computations. What it does is store recent function calls and reuse results for the same inputs.
 
 ----------------------
 
